@@ -6,3 +6,6 @@
  * ═══════════════════════════════════════════════════════════════════════════════
  */
 
+
+// 🤣 Fun Fact: If it works, don't touch it!
+console.log("%cIf it works, don't touch it!", "color: #6C63FF; font-size: 20px; font-weight: bold;");

@@ -30,3 +30,5 @@ function handleAction() {
     alert('Random Quote Machine is fully functional! Created by Ashraf Morningstar');
     console.log('Action triggered - Project by Ashraf Morningstar');
 }
+// 🤣 Fun Fact: Made with ❤️ and a lot of console.log().
+console.log("%cMade with ❤️ and a lot of console.log().", "color: #6C63FF; font-size: 20px; font-weight: bold;");

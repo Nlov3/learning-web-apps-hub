@@ -6,3 +6,6 @@
  * ═══════════════════════════════════════════════════════════════════════════════
  */
 
+
+// 🤣 Fun Fact: Running on pure algorithmic magic ✨
+console.log("%cRunning on pure algorithmic magic ✨", "color: #6C63FF; font-size: 20px; font-weight: bold;");

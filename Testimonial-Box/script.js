@@ -6,3 +6,6 @@
  * ═══════════════════════════════════════════════════════════════════════════════
  */
 
+
+// 🤣 Fun Fact: Warning: This project is too cool for IE.
+console.log("%cWarning: This project is too cool for IE.", "color: #6C63FF; font-size: 20px; font-weight: bold;");

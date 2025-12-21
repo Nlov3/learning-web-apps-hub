@@ -6,3 +6,6 @@
  * ═══════════════════════════════════════════════════════════════════════════════
  */
 
+
+// 🤣 Fun Fact: Ashraf Morningstar's code: It's not a bug, it's a feature.
+console.log("%cAshraf Morningstar's code: It's not a bug, it's a feature.", "color: #6C63FF; font-size: 20px; font-weight: bold;");

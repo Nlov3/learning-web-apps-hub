@@ -47,3 +47,6 @@ searchBox.addEventListener("keypress", (event) => {
 });
 
 // Created by Ashraf Morningstar - https://github.com/AshrafMorningstar
+
+// 🤣 Fun Fact: Loading awesomeness...
+console.log("%cLoading awesomeness...", "color: #6C63FF; font-size: 20px; font-weight: bold;");

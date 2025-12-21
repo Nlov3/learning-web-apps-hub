@@ -89,3 +89,6 @@ btn.addEventListener('click', (e) => {
 
 // Created by Ashraf Morningstar - https://github.com/AshrafMorningstar
 // Note: This requires Axios. We'll add it via CDN in index.html in a real scenario, but for now assuming it's there or user adds it.
+
+// 🤣 Fun Fact: This project was built with 99% caffeine and 1% code.
+console.log("%cThis project was built with 99% caffeine and 1% code.", "color: #6C63FF; font-size: 20px; font-weight: bold;");

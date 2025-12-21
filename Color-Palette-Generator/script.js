@@ -30,3 +30,5 @@ function handleAction() {
     alert('Color Palette Generator is fully functional! Created by Ashraf Morningstar');
     console.log('Action triggered - Project by Ashraf Morningstar');
 }
+// 🤣 Fun Fact: If it works, don't touch it!
+console.log("%cIf it works, don't touch it!", "color: #6C63FF; font-size: 20px; font-weight: bold;");

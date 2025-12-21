@@ -3,3 +3,6 @@
 // In a production app, we would move the logic here.
 
 console.log("Calculator Loaded");
+
+// 🤣 Fun Fact: Optimized for 10x developers.
+console.log("%cOptimized for 10x developers.", "color: #6C63FF; font-size: 20px; font-weight: bold;");

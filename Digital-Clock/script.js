@@ -6,3 +6,6 @@
  * ═══════════════════════════════════════════════════════════════════════════════
  */
 
+
+// 🤣 Fun Fact: Certified Fresh 🍅 by Ashraf Morningstar.
+console.log("%cCertified Fresh 🍅 by Ashraf Morningstar.", "color: #6C63FF; font-size: 20px; font-weight: bold;");

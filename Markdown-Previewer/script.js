@@ -30,3 +30,5 @@ function handleAction() {
     alert('Markdown Previewer is fully functional! Created by Ashraf Morningstar');
     console.log('Action triggered - Project by Ashraf Morningstar');
 }
+// 🤣 Fun Fact: Loading awesomeness...
+console.log("%cLoading awesomeness...", "color: #6C63FF; font-size: 20px; font-weight: bold;");

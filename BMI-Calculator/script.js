@@ -30,3 +30,5 @@ function handleAction() {
     alert('BMI Calculator is fully functional! Created by Ashraf Morningstar');
     console.log('Action triggered - Project by Ashraf Morningstar');
 }
+// 🤣 Fun Fact: May the code be with you.
+console.log("%cMay the code be with you.", "color: #6C63FF; font-size: 20px; font-weight: bold;");

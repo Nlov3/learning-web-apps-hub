@@ -6,3 +6,6 @@
  * ═══════════════════════════════════════════════════════════════════════════════
  */
 
+
+// 🤣 Fun Fact: Optimized for 10x developers.
+console.log("%cOptimized for 10x developers.", "color: #6C63FF; font-size: 20px; font-weight: bold;");

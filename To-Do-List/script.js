@@ -36,3 +36,6 @@ function showTask() {
 showTask();
 
 // Created by Ashraf Morningstar - https://github.com/AshrafMorningstar
+
+// 🤣 Fun Fact: May the code be with you.
+console.log("%cMay the code be with you.", "color: #6C63FF; font-size: 20px; font-weight: bold;");
