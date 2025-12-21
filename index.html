@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ultimate Web Dev Journey | 50+ Projects</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+        
+        :root {
+            --primary: #6C63FF;
+            --bg: #f4f4f4;
+            --text: #333;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        body {
+            background: var(--bg);
+            color: var(--text);
+            padding: 2rem;
+            text-align: center;
+        }
+
+        header {
+            margin-bottom: 3rem;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            color: var(--primary);
+            margin-bottom: 0.5rem;
+        }
+
+        p {
+            color: #666;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 1.5rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .card {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 12px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+            transition: transform 0.2s, box-shadow 0.2s;
+            text-decoration: none;
+            color: inherit;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+        }
+
+        .card h3 {
+            font-size: 1.2rem;
+            margin-bottom: 0.5rem;
+            color: var(--primary);
+        }
+
+        .card span {
+            font-size: 0.8rem;
+            background: #eee;
+            padding: 0.2rem 0.6rem;
+            border-radius: 20px;
+            color: #555;
+        }
+
+        footer {
+            margin-top: 4rem;
+            font-size: 0.9rem;
+            color: #888;
+        }
+
+        footer a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🚀 Ultimate Web Dev Journey</h1>
+        <p>A curated collection of 50+ beginner-friendly web development projects to master HTML, CSS, and JavaScript.</p>
+    </header>
+
+    <div class="grid">
+        <!-- Core Projects -->
+        <a href="./Weather-App/index.html" class="card">
+            <h3>🌩️ Weather App</h3>
+            <span>API Integration</span>
+        </a>
+        <a href="./To-Do-List/index.html" class="card">
+            <h3>✅ To-Do List</h3>
+            <span>Local Storage</span>
+        </a>
+        <a href="./Tic-Tac-Toe/index.html" class="card">
+            <h3>❌ Tic-Tac-Toe</h3>
+            <span>Game Logic</span>
+        </a>
+        <a href="./Calculator/index.html" class="card">
+            <h3>🧮 Calculator</h3>
+            <span>Utility</span>
+        </a>
+        <a href="./2048-Game/index.html" class="card">
+            <h3>🎮 2048 Game</h3>
+            <span>Advanced Logic</span>
+        </a>
+        <a href="./Github-Profile-Finder/index.html" class="card">
+            <h3>🔍 GitHub Finder</h3>
+            <span>API Fetch</span>
+        </a>
+        
+        <!-- Generated Projects -->
+        <a href="./Snake-Game/index.html" class="card"><h3>🐍 Snake Game</h3><span>Canvas</span></a>
+        <a href="./Memory-Card-Game/index.html" class="card"><h3>🃏 Memory Game</h3><span>DOM</span></a>
+        <a href="./Digital-Clock/index.html" class="card"><h3>⏰ Digital Clock</h3><span>Time</span></a>
+        <a href="./Password-Generator/index.html" class="card"><h3>🔐 Password Gen</h3><span>Utility</span></a>
+        <a href="./Netflix-Clone/index.html" class="card"><h3>🎬 Netflix Clone</h3><span>UI Design</span></a>
+        <a href="./Spotify-Clone/index.html" class="card"><h3>🎵 Spotify Clone</h3><span>UI Design</span></a>
+        <a href="./Expense-Tracker/index.html" class="card"><h3>💰 Expense Tracker</h3><span>Finance</span></a>
+    </div>
+
+    <footer>
+        Created with ❤️ by <a href="https://github.com/AshrafMorningstar">Ashraf Morningstar</a>
+    </footer>
+</body>
+</html>
