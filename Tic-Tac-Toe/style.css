@@ -1,3 +1,4 @@
+/* Created by Ashraf Morningstar - https://github.com/AshrafMorningstar */
 * {
   box-sizing: border-box;
   margin: 0;
@@ -78,3 +79,4 @@ body {
 .game-cell.won {
     background-color: #3e4440;
 }
+
