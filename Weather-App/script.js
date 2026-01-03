@@ -1,3 +1,11 @@
+/*
+ Copyright (c) 2026 Ashraf Morningstar
+ These are personal recreations of existing projects, developed by Ashraf Morningstar
+ for learning and skill development.
+ Original project concepts remain the intellectual property of their respective creators.
+ Repository: https://github.com/AshrafMorningstar
+*/
+
 const apiKey = "863242cfb2b1d357e6093d9a4df19a4b"; // This is a public free key for demo purposes. Replace with your own if needed.
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
