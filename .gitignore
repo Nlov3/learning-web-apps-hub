@@ -1,0 +1,13 @@
+# Master Bot Auto-Generated Gitignore
+*$py.class
+*.log
+*.py[cod]
+.DS_Store
+.env
+.git/
+.pytest_cache/
+__pycache__/
+env/
+temp/
+tmp/
+venv/
